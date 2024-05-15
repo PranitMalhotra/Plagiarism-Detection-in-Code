@@ -1,0 +1,56 @@
+.upload-text, .directions {
+    text-align: center;
+    color: #384C74;
+    font-family: sans-serif;
+    margin-top: 50px;
+ }
+
+.check-button{
+   background-color: #476EEC;
+   size: fixed;
+   width: 200px;
+   font-family: sans-serif;
+}
+
+
+.check-button:hover{
+    color: yellow;
+    transform: scale(1.1);
+}
+
+.center{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+  }
+
+  .sub-style {
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+
+  .h2 {
+    color: darkblue;
+  }
+
+  a{
+    color: white;
+  }
+
+  .progress-bar {
+    size: 4ex;
+    color: darkblue;
+    background-color: white;
+  }
+
+
+  .error {
+    color: '#C13C37';
+    font-size: x-large;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .size {
+    font-size: medium;
+  }
