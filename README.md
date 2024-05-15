@@ -1,7 +1,6 @@
-<h1 align="center"> <img src='/plage-watch/src/images/plagewatch.jpg' alt='logo' width=50px /> Plage Watch </h1> 
+## Plagiarism Detection in Code
 
-## A Web Application to detect plagiarism in Javascript files.
-
+### *Project By: T Aatreya `21BBS0122` & Pranit Malhotra `21BBS0087`*
 
 ### Steps to Build the application
 
